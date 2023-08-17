@@ -1,0 +1,12 @@
+/home/beanyak/BuberDinner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.deps.json
+/home/beanyak/BuberDinner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/beanyak/BuberDinner/BuberDinner.Domain/bin/Debug/net6.0/ref/BuberDinner.Domain.dll
+/home/beanyak/BuberDinner/BuberDinner.Domain/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.csproj.AssemblyReference.cache
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.AssemblyInfo.cs
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.dll
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/ref/BuberDinner.Domain.dll
+/home/beanyak/BuberDinner/BuberDinner.Domain/obj/Debug/net6.0/BuberDinner.Domain.pdb
