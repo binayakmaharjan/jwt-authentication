@@ -33,3 +33,15 @@
 /home/beanyak/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/ref/BuberDinner.Api.dll
 /home/beanyak/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.pdb
 /home/beanyak/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.genruntimeconfig.cache
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/beanyak/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
